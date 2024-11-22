@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "621506355309",
+    "firebase_url": "https://disciplina-83eaf-default-rtdb.firebaseio.com",
+    "project_id": "disciplina-83eaf",
+    "storage_bucket": "disciplina-83eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621506355309:android:08d2ee65ff5050492e9f64",
+        "android_client_info": {
+          "package_name": "com.company.disciplina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8iKSRqb4IbVceNNEtwmbs9tM5r0ck4Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
