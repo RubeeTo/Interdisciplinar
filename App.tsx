@@ -19,7 +19,7 @@ import Gallery from './src/views/Gallery';
 import Eventos from './src/views/Eventos';
 import DetalhesEventos from './src/views/DetalhesEventos';
 import FormEvento from './src/views/FormEvento';
-import { ContaCriada } from './src/views/SignUp';
+// import { ContaCriada } from './src/views/SignUp';
 import { SenhaAlterada } from './src/views/RedefinePassword';
 import { MudarSenha } from './src/views/RedefinePassword';
 import { Documents } from './src/views/Informations';
@@ -113,11 +113,11 @@ function App() {
           component={FormEvento} 
           options={{ headerShown: false }} 
         />
-        <Stack.Screen 
+        {/* <Stack.Screen 
           name="ContaCriada" 
           component={ContaCriada} 
           options={{ headerShown: false }} 
-        />
+        /> */}
         <Stack.Screen 
           name="SenhaAlterada" 
           component={SenhaAlterada} 
